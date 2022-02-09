@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/keyboard.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Hyemin"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/keyboard.jpg"
   bio              : "성장하는 개발자"
   location         : "South Korea"
   email            :

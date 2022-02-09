@@ -8,4 +8,4 @@ tags :
     - Blog
 ---
 
-github 블로그 첫 시작.
+github 블로그 첫 시작입니다.~
